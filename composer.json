@@ -19,7 +19,5 @@
         "psr-0": {
             "Meowcakes\\LaravelKendoUiDatasource": "src/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
